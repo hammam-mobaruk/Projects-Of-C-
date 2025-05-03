@@ -1265,9 +1265,7 @@ void Login()
 
 int main()
 {
-   //  ShowListUsers();
-    Login();
-
+     Login();
     system("pause>0");
     return 0;
 }
